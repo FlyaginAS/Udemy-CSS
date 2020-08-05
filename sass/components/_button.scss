@@ -10,6 +10,7 @@
     transition: all 0.2s;
     position: relative;
     font-size: $default-font-size;
+    backface-visibility: hidden;
 
     //Change for default button style <button>
     border: none;
